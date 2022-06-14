@@ -1,0 +1,33 @@
+body {
+    background-image: url(fondo-degradado.jpg)
+}
+
+h1{
+    font-style:   normal;
+    text-align:  center;
+    color:  crimson;
+}
+
+#tabla{
+        border-color:   blue;
+        border-collapse:   collapse;
+        background-color:     antiquewhite;
+
+}
+
+
+th{
+    text-align:  center;
+    font-style:  normal;
+    color: deepskyblue;
+    font-family: inherit; 
+}
+td{
+    text-align:  justify;
+    color:   purple;
+    font-style:  italic;
+}
+
+    
+   
+
